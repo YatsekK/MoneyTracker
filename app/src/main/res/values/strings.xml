@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Money Tracker</string>
+    
+    <string name="add_item_title">Новая запись</string>
+    <string name="name_hint">Название</string>
+    <string name="price_hint">0 ₽</string>
 </resources>
