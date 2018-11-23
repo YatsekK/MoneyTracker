@@ -24,7 +24,7 @@
         </activity>
 
         <activity
-            android:name=".ItemListActivity"
+            android:name=".ItemsActivity"
             android:title="@string/activity_items_list_title">
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />

@@ -1,12 +1,12 @@
 package com.example.yatsek.moneytracker;
 
-public class Record {
+public class Item {
 
     private final int price;
     private final String title;
     private String comment;
 
-    public Record(String title, int price) {
+    public Item(String title, int price) {
         this.price = price;
         this.title = title;
     }
