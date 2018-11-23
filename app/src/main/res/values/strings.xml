@@ -4,4 +4,6 @@
     <string name="add_item_title">Новая запись</string>
     <string name="name_hint">Название</string>
     <string name="price_hint">0 ₽</string>
+
+    <string name="activity_items_list_title">Учёт бюджета</string>
 </resources>
